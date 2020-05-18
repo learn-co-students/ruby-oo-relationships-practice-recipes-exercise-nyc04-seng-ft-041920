@@ -4,6 +4,9 @@ In this project, we will be practicing object relationships in Ruby, with a part
 
 ## Testing
 
+  Ingredient --< RecipeIngredient >-- Recipe --< RecipeCard >-- User --< Allergy >-- Ingredient 
+
+
 We've provided you with a console that you can use to test your code. To enter a console session, run ruby tools/console.rb. You'll be able to test out the methods that you write here.
 
 ## Deliverables
